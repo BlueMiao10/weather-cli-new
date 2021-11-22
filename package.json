@@ -1,0 +1,19 @@
+{
+  "name": "weather-cli-new",
+  "version": "1.0.4",
+  "description": "weather",
+  "main": "index.js",
+  "keywords": ["weather","select"],
+  "bin": {
+    "weather": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bluemiao",
+  "license": "ISC",
+  "dependencies": {
+    "weather-cli-new": "^1.0.0",
+    "weather23": "^1.1.1"
+  }
+}
